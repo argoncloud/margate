@@ -179,3 +179,5 @@ txn_commit()
 ```
 
 Copyright © Claudio A Andreoni, 2021.
+
+Icons made by [wanicon](https://www.flaticon.com/authors/wanicon) from [www.flaticon.com](https://www.flaticon.com/)
