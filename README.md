@@ -2,7 +2,7 @@
 **_A strongly-consistent key/value and object store._**
 
 ## Objectives
-* Efficient for both small values (~kBs) and large objects (~GBs).
+* Efficient for both small values (\~kBs) and large objects (\~GBs).
 * Users can construct subsets of the store that are strictly serializable.
   * Operations on a single entry are linearizable.
   * Transactions and snapshots that span the same set of entries are strictly serializable.
@@ -11,6 +11,7 @@
 * Automatic entry versioning with immutable data and configurable retention.
 * No dependency on clocks for correctness of live data[^1].
 * Data encoding with replication or Reed-Solomon.
+* Support for distributing over placement groups (e.g. racks) to reduce correlated failures.
 * Support for machines with different hardware configurations.
 * Focus on low latency.
 
@@ -21,8 +22,6 @@
 Entry:
 * `entry_set(key, value, create_only?, modify_only?, at_version?, key?, old_value?) -> version, key?, old_value?`
 * `entry_get(key, version=LATEST, key?) -> version, key?, value`
-* `entry_write(key, position, value, create_only?, modify_only?, at_version?, key?, old_value?) -> version, key?, old_value?`
-* `entry_read(key, position, size, version=LATEST, key?) -> version, key?, value`
 * `entry_delete(key, at_version?, key?, old_value?) -> success, key?, old_value?`
 * `entry_size(key, version=LATEST, key?) -> version, key?, size`
 * `entry_cmpxchg(key, old_value, value, key?, old_value?) -> success, key?, old_value?`
@@ -138,10 +137,13 @@ so, an entry is rendered as:
 * many entries corresponding to chunks of the value;
 * an entry for their metadata, including the key and version of the chunks that corresponds to this version of the value.
 
+This causes renames to be copies (i.e. expensive). Another option is adding a type with a pointer and reference counting.
+
 ## Performance notes
 * Long keys degrade performance. The ideal key size is O(100B); longer keys slow down operation.
 * Low entropy at the beginning of the key degrades performance. If all keys start with the same long prefix, much work is wasted before the system can take actions.
 * Very large writes can overflow a Node. Try to make at most O(100MB)-sized writes at a time.
+
 
 ## Client API Examples
 ```
