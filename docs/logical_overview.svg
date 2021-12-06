@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="15cm" viewBox="67 -49 232 289" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="205.663" cy="16.6726" rx="33.6589" ry="33.6589"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #008000" x="68.8026" y="75.9692" width="74.5998" height="163.513"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="80.0468" y="169.632" width="28" height="16"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="94.0468" y="179.391">
+    <tspan x="94.0468" y="179.391">A-C</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="80.0468" y="185.632" width="28" height="12"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="94.0468" y="193.391">
+    <tspan x="94.0468" y="193.391">C-J</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="95.7832" y="165.384">
+    <tspan x="95.7832" y="165.384">Consistent Hash</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="80.0468" y="197.632" width="28" height="24"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="94.0468" y="211.391">
+    <tspan x="94.0468" y="211.391">J-P</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="80.0468" y="221.632" width="28" height="12"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="94.0468" y="229.391">
+    <tspan x="94.0468" y="229.391">P-A</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="112.635" y="179.909">
+    <tspan x="112.635" y="179.909">Shard 0</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="112.635" y="193.508">
+    <tspan x="112.635" y="193.508">Shard 1</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="112.635" y="211.221">
+    <tspan x="112.635" y="211.221">Shard 2</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="112.635" y="229.641">
+    <tspan x="112.635" y="229.641">Shard 3</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" x="166.499" y="-21.4398" width="132.466" height="248.548"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="105.931" cy="115.285" rx="33.6589" ry="33.6589"/>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #008000" d="M 136.66,91.2174 A 317.951,317.951 0 0 0 185.259,44.0692"/>
+    <polygon style="fill: #008000" points="133.694,93.511 136.17,88.4991 136.683,91.2467 139.189,92.4848 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #008000" points="133.694,93.511 136.17,88.4991 136.683,91.2467 139.189,92.4848 "/>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ff7700" x="68.8026" y="-38.2738" width="74.5998" height="86.484"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="91.5148" y="-23.6396" width="28" height="16"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.515" y="-13.8809">
+    <tspan x="105.515" y="-13.8809">A-C</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="91.5148" y="-7.63952" width="28" height="12"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.515" y="0.119127">
+    <tspan x="105.515" y="0.119127">C-J</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.837" y="-27.8882">
+    <tspan x="105.837" y="-27.8882">Consistent Hash</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="91.5148" y="4.36048" width="28" height="24"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.515" y="18.1191">
+    <tspan x="105.515" y="18.1191">J-P</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="91.5148" y="28.3604" width="28" height="12"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.515" y="36.119">
+    <tspan x="105.515" y="36.119">P-A</tspan>
+  </text>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="193.483" cy="33.3036" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="198.148" cy="-1.43474" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="226.432" cy="20.7767" rx="10" ry="10"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="196.752" y1="8.96302" x2="194.879" y2="22.9058"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="203.305" y1="29.5694" x2="216.61" y2="24.5109"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="218.187" y1="14.302" x2="206.393" y2="5.03997"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="193.483" y="31.8872">
+    <tspan x="193.483" y="31.8872">Shard</tspan>
+    <tspan x="193.483" y="38.2372">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="198.148" y="-2.85108">
+    <tspan x="198.148" y="-2.85108">Shard</tspan>
+    <tspan x="198.148" y="3.49892">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="226.432" y="19.3602">
+    <tspan x="226.432" y="19.3602">Shard</tspan>
+    <tspan x="226.432" y="25.7102">Inst</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="175.217" y="13.0089" width="36.85" height="5.91338"/>
+    <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="193.642" y="17.7242">
+      <tspan x="193.642" y="17.7242">Shard Quorum</tspan>
+    </text>
+  </g>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="124.44" cy="127.043" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="104.381" cy="93.7756" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="87.764" cy="127.301" rx="10" ry="10"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="109.797" y1="102.759" x2="119.023" y2="118.06"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="113.937" y1="127.117" x2="98.267" y2="127.227"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="92.4254" y1="117.896" x2="99.7196" y2="103.18"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="124.44" y="125.627">
+    <tspan x="124.44" y="125.627">Dir</tspan>
+    <tspan x="124.44" y="131.977">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="104.381" y="92.3592">
+    <tspan x="104.381" y="92.3592">Dir</tspan>
+    <tspan x="104.381" y="98.7092">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="87.764" y="125.884">
+    <tspan x="87.764" y="125.884">Dir</tspan>
+    <tspan x="87.764" y="132.234">Inst</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="83.1314" y="107.732" width="45.6" height="5.91338"/>
+    <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.931" y="112.447">
+      <tspan x="105.931" y="112.447">Directory Quorum</tspan>
+    </text>
+  </g>
+  <text font-size="5.08" style="fill: #ff7700;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="76.2272" y="-43.7228">
+    <tspan x="76.2272" y="-43.7228">Client</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #1133ff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="187.891" y="-32.0936">
+    <tspan x="187.891" y="-32.0936">Shard Services</tspan>
+    <tspan x="187.891" y="-25.7436">(Key-Value Data)</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #008000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="92.4452" y="65.7546">
+    <tspan x="92.4452" y="65.7546">Directory Service</tspan>
+    <tspan x="92.4452" y="72.1046">(Config/Monitoring)</tspan>
+  </text>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="245.274" cy="83.735" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="249.938" cy="48.9968" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="278.222" cy="71.2082" rx="10" ry="10"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="248.542" y1="59.3945" x2="246.67" y2="73.3373"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="255.096" y1="80.0008" x2="268.4" y2="74.9424"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="269.977" y1="64.7335" x2="258.183" y2="55.4715"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="245.274" y="82.3186">
+    <tspan x="245.274" y="82.3186">Shard</tspan>
+    <tspan x="245.274" y="88.6686">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="249.938" y="47.5804">
+    <tspan x="249.938" y="47.5804">Shard</tspan>
+    <tspan x="249.938" y="53.9304">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="278.222" y="69.7918">
+    <tspan x="278.222" y="69.7918">Shard</tspan>
+    <tspan x="278.222" y="76.1418">Inst</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="229.181" y="63.4093" width="36.85" height="5.91338"/>
+    <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="247.606" y="68.1246">
+      <tspan x="247.606" y="68.1246">Shard Quorum</tspan>
+    </text>
+  </g>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="257.453" cy="67.1041" rx="33.6589" ry="33.6589"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="193.313" cy="205.101" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="197.978" cy="170.363" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="226.262" cy="192.575" rx="10" ry="10"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="196.582" y1="180.761" x2="194.709" y2="194.704"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="203.135" y1="201.367" x2="216.44" y2="196.309"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="218.017" y1="186.1" x2="206.223" y2="176.838"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="193.313" y="203.686">
+    <tspan x="193.313" y="203.686">Shard</tspan>
+    <tspan x="193.313" y="210.036">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="197.978" y="168.947">
+    <tspan x="197.978" y="168.947">Shard</tspan>
+    <tspan x="197.978" y="175.297">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="226.262" y="191.158">
+    <tspan x="226.262" y="191.158">Shard</tspan>
+    <tspan x="226.262" y="197.508">Inst</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="177.22" y="184.776" width="36.85" height="5.91338"/>
+    <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="195.645" y="189.491">
+      <tspan x="195.645" y="189.491">Shard Quorum</tspan>
+    </text>
+  </g>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="205.492" cy="188.47" rx="33.6589" ry="33.6589"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="245.78" cy="155.957" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="250.444" cy="121.219" rx="10" ry="10"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="278.728" cy="143.431" rx="10" ry="10"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="249.048" y1="131.617" x2="247.176" y2="145.56"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="255.602" y1="152.223" x2="268.906" y2="147.165"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="270.483" y1="136.956" x2="258.689" y2="127.694"/>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="245.78" y="154.541">
+    <tspan x="245.78" y="154.541">Shard</tspan>
+    <tspan x="245.78" y="160.891">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250.444" y="119.803">
+    <tspan x="250.444" y="119.803">Shard</tspan>
+    <tspan x="250.444" y="126.153">Inst</tspan>
+  </text>
+  <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="278.728" y="142.014">
+    <tspan x="278.728" y="142.014">Shard</tspan>
+    <tspan x="278.728" y="148.364">Inst</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="229.687" y="135.632" width="36.85" height="5.91338"/>
+    <text font-size="5.08" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="248.112" y="140.347">
+      <tspan x="248.112" y="140.347">Shard Quorum</tspan>
+    </text>
+  </g>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="257.959" cy="139.326" rx="33.6589" ry="33.6589"/>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #008000" d="M 144.418,108.932 A 419.153,419.153 0 0 0 226.828,82.1995"/>
+    <polygon style="fill: #008000" points="140.747,109.699 145.156,106.262 144.423,108.96 146.142,111.164 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #008000" points="140.747,109.699 145.156,106.262 144.423,108.96 146.142,111.164 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #008000" d="M 143.154,126.974 A 393.033,393.033 0 0 0 223.808,139.217"/>
+    <polygon style="fill: #008000" points="139.529,126.013 145.011,124.921 143.146,127.003 143.692,129.744 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #008000" points="139.529,126.013 145.011,124.921 143.146,127.003 143.692,129.744 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #008000" d="M 133.029,143.316 A 254.658,254.658 0 0 0 174.845,173.443"/>
+    <polygon style="fill: #008000" points="130.242,140.809 135.612,142.36 132.999,143.351 132.223,146.036 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #008000" points="130.242,140.809 135.612,142.36 132.999,143.351 132.223,146.036 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" d="M 172.426,-3.6958 A 142.888,142.888 0 0 0 119.515,-15.6395"/>
+    <polygon style="fill: #1133ff" points="175.841,-2.15063 170.251,-2.05776 172.459,-3.77173 172.413,-6.56643 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" points="175.841,-2.15063 170.251,-2.05776 172.459,-3.77173 172.413,-6.56643 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" d="M 119.515,-1.63952 A 196.38,196.38 0 0 0 218.94,60.9456"/>
+    <polygon style="fill: #1133ff" points="222.573,61.8707 217.131,63.1473 218.925,61.004 218.287,58.2827 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" points="222.573,61.8707 217.131,63.1473 218.925,61.004 218.287,58.2827 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" d="M 119.515,16.3605 A 409.306,409.306 0 0 0 224.608,119.072"/>
+    <polygon style="fill: #1133ff" points="227.725,121.156 222.174,120.499 224.592,119.096 224.921,116.321 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" points="227.725,121.156 222.174,120.499 224.592,119.096 224.921,116.321 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" d="M 119.515,34.3604 A 3683.37,3683.37 0 0 0 185.851,154.76"/>
+    <polygon style="fill: #1133ff" points="187.723,158.009 183.058,154.929 185.849,154.761 187.389,152.429 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #1133ff" points="187.723,158.009 183.058,154.929 185.849,154.761 187.389,152.429 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #008000" d="M 126.018,82.5426 A 38.1096,38.1096 0 0 0 106.103,48.2102"/>
+    <polygon style="fill: #008000" points="125.771,86.2578 124.041,80.9419 126.328,82.5495 128.986,81.6848 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #008000" points="125.771,86.2578 124.041,80.9419 126.328,82.5495 128.986,81.6848 "/>
+  </g>
+</svg>
